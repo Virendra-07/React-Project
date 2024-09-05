@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>This is the roiutein project</h1>
+      <h1>This is the rauting project</h1>
     </>
   )
 }
